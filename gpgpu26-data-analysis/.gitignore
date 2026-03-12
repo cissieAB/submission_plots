@@ -1,0 +1,13 @@
+
+
+# Figures
+*.pdf
+*.png
+
+# Cache and environment files
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+env/
+.venv/
